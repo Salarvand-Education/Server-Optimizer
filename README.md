@@ -15,5 +15,5 @@ bash <(curl -s https://raw.githubusercontent.com/Salarvand-Education/Server-Opti
 
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/Salarvand-Education/Server-Optimizer/main/Optimizer.sh) Uninstall
+bash <(curl -s https://raw.githubusercontent.com/Salarvand-Education/Server-Optimizer/main/Optimizer.sh) uninstall
 ```
