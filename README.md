@@ -1,4 +1,3 @@
-## Server Optimizer
 
 
 # How To Install
