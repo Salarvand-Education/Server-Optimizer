@@ -1,7 +1,7 @@
 ## Server Optimizer
 
 
-#How To Install
+# How To Install
 
 1 . Copy This Bash Script And Paste In Terminal
 
