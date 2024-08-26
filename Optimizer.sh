@@ -139,6 +139,7 @@ save_config() {
 endInstall() {
     clear
     echo "The script was successfully Install Hybla and all settings Updated."
+    reboot
 	read -p "Press Enter to continue..."
 }
 
