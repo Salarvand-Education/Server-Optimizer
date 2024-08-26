@@ -135,11 +135,11 @@ sysctl_config() {
 save_config() {
     sudo sysctl -p
     sudo sysctl --system
+    reboot
 }
 endInstall() {
     clear
     echo "The script was successfully Install Hybla and all settings Updated."
-    reboot
 	read -p "Press Enter to continue..."
 }
 
